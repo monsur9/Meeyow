@@ -1,0 +1,8 @@
+1.SOW
+2.PLANNING
+3.Design
+4.Approval
+5.Development
+6.QA
+7.UAT
+8.PROD DEPLOYMENT
